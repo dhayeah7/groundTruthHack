@@ -1,0 +1,605 @@
+{
+  "user_preferences": [
+    {
+      "user_id": "U001",
+      "name": "Arjun Kumar",
+      "conversation_history_count": 77,
+      "preferred_categories": [
+        {
+          "category": "Running Shoes",
+          "frequency": 12,
+          "confidence": 0.85
+        },
+        {
+          "category": "Apparel",
+          "frequency": 5,
+          "confidence": 0.45
+        }
+      ],
+      "preferred_products": [
+        {
+          "product_id": "P001",
+          "product_name": "Nike Air Zoom Pegasus 40",
+          "mentions": 21,
+          "last_inquired": "2025-12-03"
+        },
+        {
+          "product_id": "P004",
+          "product_name": "Nike ZoomX Vaporfly Next% 3",
+          "mentions": 11,
+          "last_inquired": "2025-12-03"
+        },
+        {
+          "product_id": "P009",
+          "product_name": "Nike Metcon 9",
+          "mentions": 16,
+          "last_inquired": "2025-12-03"
+        },
+        {
+          "product_id": "P003",
+          "product_name": "Nike Dri-FIT Swift Running Top",
+          "mentions": 24,
+          "last_inquired": "2025-12-03"
+        },
+        {
+          "product_id": "P002",
+          "product_name": "Nike Air Max 90",
+          "mentions": 14,
+          "last_inquired": "2025-12-03"
+        },
+        {
+          "product_id": "P007",
+          "product_name": "Nike Revolution 7",
+          "mentions": 19,
+          "last_inquired": "2025-12-03"
+        },
+        {
+          "product_id": "P005",
+          "product_name": "Nike Pro Dri-FIT Shorts",
+          "mentions": 2,
+          "last_inquired": "2025-12-03"
+        },
+        {
+          "product_id": "P010",
+          "product_name": "Nike Everyday Cushion Crew Socks",
+          "mentions": 1,
+          "last_inquired": "2025-12-03"
+        },
+        {
+          "product_id": "P011",
+          "product_name": "Nike Air Force 1 '07",
+          "mentions": 13,
+          "last_inquired": "2025-12-03"
+        },
+        {
+          "product_id": "P012",
+          "product_name": "Nike Dunk Low Retro",
+          "mentions": 3,
+          "last_inquired": "2025-12-03"
+        },
+        {
+          "product_id": "P006",
+          "product_name": "Nike Sportswear Club Fleece Hoodie",
+          "mentions": 2,
+          "last_inquired": "2025-12-03"
+        },
+        {
+          "product_id": "P014",
+          "product_name": "Nike Invincible 3",
+          "mentions": 4,
+          "last_inquired": "2025-12-03"
+        },
+        {
+          "product_id": "P013",
+          "product_name": "Nike InfinityRN 4",
+          "mentions": 2,
+          "last_inquired": "2025-12-03"
+        }
+      ],
+      "size_preferences": {
+        "shoes": "10",
+        "apparel": "M",
+        "confidence": 0.6
+      },
+      "color_preferences": [
+        "Black/White",
+        "Blue",
+        "Grey"
+      ],
+      "favorite_store": {
+        "store_id": "S002",
+        "store_name": "Nike Phoenix MarketCity",
+        "visit_frequency": 3,
+        "last_visit": "2025-12-03"
+      },
+      "alternative_stores": [
+        {
+          "store_id": "S002",
+          "store_name": "Nike Pavilion KL",
+          "visit_frequency": 3
+        }
+      ],
+      "purchase_intent_signals": [
+        "marathon training",
+        "long distance running",
+        "road running",
+        "comfortable cushioning",
+        "running"
+      ],
+      "loyalty_tier": "Gold",
+      "loyalty_points": 6500,
+      "budget_range": {
+        "min": 100,
+        "max": 300,
+        "currency": "USD"
+      },
+      "activity_level": "Advanced Runner",
+      "interests": [
+        "Marathon",
+        "5K",
+        "10K",
+        "Trail Running"
+      ],
+      "purchase_history": [
+        {
+          "date": "2025-11-15",
+          "product_name": "Nike Air Zoom Pegasus 40",
+          "price": 139.99,
+          "store": "Nike Express Avenue"
+        },
+        {
+          "date": "2025-10-01",
+          "product_name": "Nike Dri-FIT T-Shirt",
+          "price": 35.0,
+          "store": "Nike Online Store"
+        },
+        {
+          "date": "2025-09-12",
+          "product_name": "Nike Pro Shorts",
+          "price": 45.0,
+          "store": "Nike Phoenix MarketCity"
+        }
+      ],
+      "embedding_text": "prefers Nike Air Zoom Pegasus 40 Nike ZoomX Vaporfly Next% 3 Nike Metcon 9 size 10 Nike Phoenix MarketCity Gold marathon training long distance running road running"
+    },
+    {
+      "user_id": "U002",
+      "conversation_history_count": 8,
+      "preferred_categories": [
+        {
+          "category": "Lifestyle Shoes",
+          "frequency": 6,
+          "confidence": 0.75
+        },
+        {
+          "category": "Apparel",
+          "frequency": 4,
+          "confidence": 0.6
+        }
+      ],
+      "preferred_products": [
+        {
+          "product_id": "P002",
+          "product_name": "Nike Air Max 90",
+          "mentions": 5,
+          "last_inquired": "2025-11-30"
+        },
+        {
+          "product_id": "P006",
+          "product_name": "Nike Sportswear Club Fleece Hoodie",
+          "mentions": 3,
+          "last_inquired": "2025-11-29"
+        }
+      ],
+      "size_preferences": {
+        "shoes": "8.5",
+        "apparel": "L",
+        "confidence": 0.9
+      },
+      "color_preferences": [
+        "White",
+        "Grey Heather",
+        "Black"
+      ],
+      "favorite_store": {
+        "store_id": "S002",
+        "store_name": "Nike Pavilion KL",
+        "visit_frequency": 5,
+        "last_visit": "2025-11-30"
+      },
+      "alternative_stores": [
+        {
+          "store_id": "S004",
+          "store_name": "Nike 1 Utama",
+          "visit_frequency": 2
+        }
+      ],
+      "purchase_intent_signals": [
+        "casual wear",
+        "streetwear",
+        "everyday comfort",
+        "lifestyle fashion"
+      ],
+      "loyalty_tier": "Silver",
+      "loyalty_points": 2800,
+      "budget_range": {
+        "min": 50,
+        "max": 150,
+        "currency": "USD"
+      },
+      "activity_level": "Casual Wearer",
+      "interests": [
+        "Streetwear",
+        "Fashion",
+        "Casual Style"
+      ],
+      "purchase_history": [
+        {
+          "date": "2025-11-20",
+          "product_name": "Nike Air Max 90",
+          "price": 130.0,
+          "store": "Nike Pavilion KL"
+        },
+        {
+          "date": "2025-10-15",
+          "product_name": "Nike Sportswear Club Fleece Hoodie",
+          "price": 65.0,
+          "store": "Nike Online Store"
+        }
+      ],
+      "embedding_text": "user prefers lifestyle shoes Air Max casual streetwear size 8.5 Nike Pavilion silver member fashion"
+    },
+    {
+      "user_id": "U003",
+      "conversation_history_count": 13,
+      "preferred_categories": [
+        {
+          "category": "Training Shoes",
+          "frequency": 8,
+          "confidence": 0.8
+        },
+        {
+          "category": "Accessories",
+          "frequency": 4,
+          "confidence": 0.5
+        }
+      ],
+      "preferred_products": [
+        {
+          "product_id": "P009",
+          "product_name": "Nike Metcon 9",
+          "mentions": 6,
+          "last_inquired": "2025-12-02"
+        },
+        {
+          "product_id": "P008",
+          "product_name": "Nike Brasilia 9.5 Training Duffel Bag",
+          "mentions": 2,
+          "last_inquired": "2025-11-25"
+        },
+        {
+          "product_id": "P001",
+          "product_name": "Nike Air Zoom Pegasus 40",
+          "mentions": 1,
+          "last_inquired": "2025-12-03"
+        },
+        {
+          "product_id": "P002",
+          "product_name": "Nike Air Max 90",
+          "mentions": 1,
+          "last_inquired": "2025-12-03"
+        },
+        {
+          "product_id": "P007",
+          "product_name": "Nike Revolution 7",
+          "mentions": 1,
+          "last_inquired": "2025-12-03"
+        },
+        {
+          "product_id": "P010",
+          "product_name": "Nike Everyday Cushion Crew Socks",
+          "mentions": 1,
+          "last_inquired": "2025-12-03"
+        }
+      ],
+      "size_preferences": {
+        "shoes": "11",
+        "apparel": "XL",
+        "confidence": 0.92
+      },
+      "color_preferences": [
+        "Black",
+        "Grey",
+        "Navy"
+      ],
+      "favorite_store": {
+        "store_id": "S003",
+        "store_name": "Nike Mid Valley",
+        "visit_frequency": 7,
+        "last_visit": "2025-12-02"
+      },
+      "alternative_stores": [
+        {
+          "store_id": "S001",
+          "store_name": "Nike KLCC",
+          "visit_frequency": 3
+        }
+      ],
+      "purchase_intent_signals": [
+        "cross training",
+        "gym workout",
+        "weightlifting",
+        "HIIT training",
+        "functional fitness"
+      ],
+      "loyalty_tier": "Gold",
+      "loyalty_points": 5200,
+      "budget_range": {
+        "min": 100,
+        "max": 250,
+        "currency": "USD"
+      },
+      "activity_level": "Gym Enthusiast",
+      "interests": [
+        "Weightlifting",
+        "CrossFit",
+        "HIIT",
+        "Functional Training"
+      ],
+      "purchase_history": [
+        {
+          "date": "2025-11-25",
+          "product_name": "Nike Metcon 9",
+          "price": 150.0,
+          "store": "Nike Mid Valley"
+        },
+        {
+          "date": "2025-11-10",
+          "product_name": "Nike Brasilia 9.5 Training Duffel Bag",
+          "price": 45.0,
+          "store": "Nike Mid Valley"
+        },
+        {
+          "date": "2025-10-05",
+          "product_name": "Nike Pro Dri-FIT Shorts",
+          "price": 35.0,
+          "store": "Nike Online Store"
+        }
+      ],
+      "embedding_text": "prefers Nike Metcon 9 Nike Brasilia 9.5 Training Duffel Bag Nike Air Zoom Pegasus 40 size 11 Nike Mid Valley Gold cross training gym workout weightlifting"
+    },
+    {
+      "user_id": "U004",
+      "conversation_history_count": 9,
+      "preferred_categories": [
+        {
+          "category": "Running Shoes",
+          "frequency": 3,
+          "confidence": 0.6
+        },
+        {
+          "category": "Apparel",
+          "frequency": 2,
+          "confidence": 0.4
+        }
+      ],
+      "preferred_products": [
+        {
+          "product_id": "P007",
+          "product_name": "Nike Revolution 7",
+          "mentions": 3,
+          "last_inquired": "2025-11-28"
+        },
+        {
+          "product_id": "P003",
+          "product_name": "Nike Dri-FIT Swift Running Top",
+          "mentions": 3,
+          "last_inquired": "2025-12-03"
+        },
+        {
+          "product_id": "P002",
+          "product_name": "Nike Air Max 90",
+          "mentions": 1,
+          "last_inquired": "2025-12-03"
+        },
+        {
+          "product_id": "P010",
+          "product_name": "Nike Everyday Cushion Crew Socks",
+          "mentions": 1,
+          "last_inquired": "2025-12-03"
+        },
+        {
+          "product_id": "P001",
+          "product_name": "Nike Air Zoom Pegasus 40",
+          "mentions": 1,
+          "last_inquired": "2025-12-03"
+        },
+        {
+          "product_id": "P006",
+          "product_name": "Nike Sportswear Club Fleece Hoodie",
+          "mentions": 1,
+          "last_inquired": "2025-12-03"
+        }
+      ],
+      "size_preferences": {
+        "shoes": "7.5",
+        "apparel": "S",
+        "confidence": 0.7
+      },
+      "color_preferences": [
+        "Pink",
+        "White",
+        "Purple"
+      ],
+      "favorite_store": {
+        "store_id": "S003",
+        "store_name": "Nike VR Mall",
+        "visit_frequency": 1,
+        "last_visit": "2025-12-03"
+      },
+      "alternative_stores": [],
+      "purchase_intent_signals": [
+        "beginner running",
+        "affordable options",
+        "casual jogging",
+        "fitness journey",
+        "running"
+      ],
+      "loyalty_tier": "Member",
+      "loyalty_points": 850,
+      "budget_range": {
+        "min": 50,
+        "max": 100,
+        "currency": "USD"
+      },
+      "activity_level": "Beginner Runner",
+      "interests": [
+        "Jogging",
+        "Fitness",
+        "Health"
+      ],
+      "purchase_history": [
+        {
+          "date": "2025-11-28",
+          "product_name": "Nike Revolution 7",
+          "price": 70.0,
+          "store": "Nike Sunway Pyramid"
+        },
+        {
+          "date": "2025-11-28",
+          "product_name": "Nike Everyday Cushion Crew Socks",
+          "price": 18.0,
+          "store": "Nike Sunway Pyramid"
+        }
+      ],
+      "embedding_text": "prefers Nike Revolution 7 Nike Dri-FIT Swift Running Top Nike Air Max 90 size 7.5 Nike VR Mall Member beginner running affordable options casual jogging"
+    },
+    {
+      "user_id": "U005",
+      "conversation_history_count": 21,
+      "preferred_categories": [
+        {
+          "category": "Running Shoes",
+          "frequency": 15,
+          "confidence": 0.9
+        },
+        {
+          "category": "Apparel",
+          "frequency": 8,
+          "confidence": 0.65
+        }
+      ],
+      "preferred_products": [
+        {
+          "product_id": "P004",
+          "product_name": "Nike ZoomX Vaporfly Next% 3",
+          "mentions": 10,
+          "last_inquired": "2025-12-03"
+        },
+        {
+          "product_id": "P001",
+          "product_name": "Nike Air Zoom Pegasus 40",
+          "mentions": 6,
+          "last_inquired": "2025-12-03"
+        },
+        {
+          "product_id": "P003",
+          "product_name": "Nike Dri-FIT Swift Running Top",
+          "mentions": 4,
+          "last_inquired": "2025-11-27"
+        },
+        {
+          "product_id": "P013",
+          "product_name": "Nike InfinityRN 4",
+          "mentions": 1,
+          "last_inquired": "2025-12-03"
+        },
+        {
+          "product_id": "P014",
+          "product_name": "Nike Invincible 3",
+          "mentions": 1,
+          "last_inquired": "2025-12-03"
+        }
+      ],
+      "size_preferences": {
+        "shoes": "9.5",
+        "apparel": "M",
+        "confidence": 0.98
+      },
+      "color_preferences": [
+        "Electric Green",
+        "Pink",
+        "White",
+        "Black"
+      ],
+      "favorite_store": {
+        "store_id": "S001",
+        "store_name": "Nike KLCC",
+        "visit_frequency": 12,
+        "last_visit": "2025-12-03"
+      },
+      "alternative_stores": [
+        {
+          "store_id": "S002",
+          "store_name": "Nike Pavilion KL",
+          "visit_frequency": 4
+        },
+        {
+          "store_id": "S003",
+          "store_name": "Nike Mid Valley",
+          "visit_frequency": 2
+        }
+      ],
+      "purchase_intent_signals": [
+        "elite performance",
+        "marathon racing",
+        "competitive running",
+        "personal best",
+        "carbon plate shoes",
+        "sub 3-hour marathon"
+      ],
+      "loyalty_tier": "Gold",
+      "loyalty_points": 8900,
+      "budget_range": {
+        "min": 150,
+        "max": 400,
+        "currency": "USD"
+      },
+      "activity_level": "Elite Runner",
+      "interests": [
+        "Marathon",
+        "Ultra Marathon",
+        "Half Marathon",
+        "Track Racing",
+        "Performance Training"
+      ],
+      "recent_race": {
+        "event": "Kuala Lumpur Marathon 2025",
+        "date": "2025-11-15",
+        "distance": "42.2km",
+        "time": "3:12:45"
+      },
+      "purchase_history": [
+        {
+          "date": "2025-11-01",
+          "product_name": "Nike ZoomX Vaporfly Next% 3",
+          "price": 260.0,
+          "store": "Nike KLCC"
+        },
+        {
+          "date": "2025-10-15",
+          "product_name": "Nike Dri-FIT Swift Running Top",
+          "price": 75.0,
+          "store": "Nike KLCC"
+        },
+        {
+          "date": "2025-09-20",
+          "product_name": "Nike Air Zoom Pegasus 40",
+          "price": 140.0,
+          "store": "Nike Online Store"
+        }
+      ],
+      "embedding_text": "prefers Nike ZoomX Vaporfly Next% 3 Nike Air Zoom Pegasus 40 Nike Dri-FIT Swift Running Top size 9.5 Nike KLCC Gold elite performance marathon racing competitive running"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "products": [
+    {
+      "id": "P001",
+      "name": "Nike Air Zoom Pegasus 40",
+      "category": "Running Shoes",
+      "price": 139.99,
+      "description": "A springy ride for every run, the Peg's familiar, just-for-you feel returns to help you accomplish your goals.",
+      "sizes_available": [8, 8.5, 9, 9.5, 10, 10.5, 11, 12],
+      "colors": ["Black/White", "Blue/Yellow", "Pink/White", "Grey/Orange"],
+      "embedding_text": "Nike Air Zoom Pegasus 40 Running Shoes road running daily trainer responsive cushioning neutral support",
+      "image_url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/89bb27f8-8bf9-4679-8a8e-736a53967274/air-zoom-pegasus-40-road-running-shoes-HTDVsQ.png"
+    },
+    {
+      "id": "P002",
+      "name": "Nike Air Max 90",
+      "category": "Lifestyle Shoes",
+      "price": 130.00,
+      "description": "Nothing as fly, nothing as comfortable, nothing as proven. The Nike Air Max 90 stays true to its OG running roots.",
+      "sizes_available": [7, 8, 9, 10, 11],
+      "colors": ["White", "Black", "Infrared"],
+      "embedding_text": "Nike Air Max 90 Lifestyle Shoes casual streetwear classic comfort air cushioning",
+      "image_url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/wzitsrb4oucx9xm9oucx/air-max-90-mens-shoes-6n3vKB.png"
+    },
+    {
+      "id": "P003",
+      "name": "Nike Dri-FIT Swift Running Top",
+      "category": "Apparel",
+      "price": 75.00,
+      "description": "The Nike Dri-FIT Swift Top delivers a lightweight feel and sweat-wicking tech to help keep you fast and fresh.",
+      "sizes_available": ["S", "M", "L", "XL"],
+      "colors": ["Black", "Blue", "Red"],
+      "embedding_text": "Nike Dri-FIT Swift Running Top Apparel shirt sweat-wicking lightweight running gear",
+      "image_url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/389b709e-5102-4e55-aa5d-07099b501f30/dri-fit-swift-mens-running-top-J4K69g.png"
+    },
+    {
+      "id": "P004",
+      "name": "Nike ZoomX Vaporfly Next% 3",
+      "category": "Running Shoes",
+      "price": 260.00,
+      "description": "Catch them if you can. The Nike ZoomX Vaporfly Next% 3 is made for the chasers, the racers, the elevated pacers.",
+      "sizes_available": [9, 9.5, 10, 10.5],
+      "colors": ["Electric Green", "Pink", "White"],
+      "embedding_text": "Nike ZoomX Vaporfly Next% 3 Running Shoes marathon racing carbon plate speed elite performance",
+      "image_url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/7d968c27-5566-45e3-95b6-2584e4348b83/vaporfly-3-road-racing-shoes-xsDgvM.png"
+    },
+    {
+      "id": "P005",
+      "name": "Nike Pro Dri-FIT Shorts",
+      "category": "Apparel",
+      "price": 35.00,
+      "description": "The Nike Pro Shorts are made with stretchy, sleek and supportive fabric that wicks sweat to help keep you dry.",
+      "sizes_available": ["S", "M", "L", "XL", "XXL"],
+      "colors": ["Black", "Grey", "White"],
+      "embedding_text": "Nike Pro Dri-FIT Shorts Apparel compression base layer gym training workout",
+      "image_url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/0347d890-b837-475f-a1eb-850d09e7bd28/pro-dri-fit-mens-shorts-3k29wF.png"
+    },
+    {
+      "id": "P006",
+      "name": "Nike Sportswear Club Fleece Hoodie",
+      "category": "Apparel",
+      "price": 65.00,
+      "description": "A closet staple, the Nike Sportswear Club Fleece Pullover Hoodie combines classic style with the soft comfort of fleece.",
+      "sizes_available": ["XS", "S", "M", "L", "XL", "XXL"],
+      "colors": ["Grey Heather", "Black", "Navy", "Red"],
+      "embedding_text": "Nike Sportswear Club Fleece Hoodie Apparel casual warm comfort sweatshirt",
+      "image_url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/663d6396-291f-4952-872f-c097721525d8/sportswear-club-fleece-pullover-hoodie-Gw4Nwq.png"
+    },
+    {
+      "id": "P007",
+      "name": "Nike Revolution 7",
+      "category": "Running Shoes",
+      "price": 70.00,
+      "description": "We loaded the Revolution 7 with the sort of soft cushioning and support that might change your running world.",
+      "sizes_available": [7, 7.5, 8, 8.5, 9, 9.5, 10, 11, 12],
+      "colors": ["Black/White", "White/Grey", "Navy/Orange", "Pink/White"],
+      "embedding_text": "Nike Revolution 7 Running Shoes beginner budget road running comfortable",
+      "image_url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/5d29e884-06c4-4001-912b-3f41272663e8/revolution-7-road-running-shoes-dC753u.png"
+    },
+    {
+      "id": "P008",
+      "name": "Nike Brasilia 9.5 Training Duffel Bag",
+      "category": "Accessories",
+      "price": 45.00,
+      "description": "The Nike Brasilia Duffel Bag keeps all your training gear at hand. A side compartment keeps shoes separate.",
+      "sizes_available": ["One Size"],
+      "colors": ["Black", "Navy", "Camo"],
+      "embedding_text": "Nike Brasilia 9.5 Training Duffel Bag Accessories gym bag storage travel",
+      "image_url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e44d151a-e27a-4f7b-8650-313180d16398/brasilia-9-5-training-duffel-bag-medium-60l-XhC7X7.png"
+    },
+    {
+      "id": "P009",
+      "name": "Nike Metcon 9",
+      "category": "Training Shoes",
+      "price": 150.00,
+      "description": "Whatever your 'why' is for working out, the Metcon 9 makes it all worth it. Improved stability and durability.",
+      "sizes_available": [8, 9, 10, 11, 12],
+      "colors": ["Black", "Grey/Volt", "Red/Black"],
+      "embedding_text": "Nike Metcon 9 Training Shoes crossfit weightlifting gym workout stability",
+      "image_url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/0667822b-0934-450f-b2ce-033787f2459a/metcon-9-workout-shoes-l80X6P.png"
+    },
+    {
+      "id": "P010",
+      "name": "Nike Everyday Cushion Crew Socks",
+      "category": "Accessories",
+      "price": 18.00,
+      "description": "Power through your workout with the Nike Everyday Cushion Crew Training Socks (3 Pairs).",
+      "sizes_available": ["S", "M", "L", "XL"],
+      "colors": ["White", "Black", "Grey"],
+      "embedding_text": "Nike Everyday Cushion Crew Socks Accessories socks comfort training",
+      "image_url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b02f2a74-98ae-4f05-92e3-0a4c47f63167/everyday-cushion-crew-training-socks-3-pairs-xM5g21.png"
+    },
+    {
+      "id": "P011",
+      "name": "Nike Air Force 1 '07",
+      "category": "Lifestyle Shoes",
+      "price": 115.00,
+      "description": "The radiance lives on in the Nike Air Force 1 '07, the basketball original that puts a fresh spin on what you know best.",
+      "sizes_available": [7, 8, 9, 10, 11, 12, 13],
+      "colors": ["White", "Black"],
+      "embedding_text": "Nike Air Force 1 '07 Lifestyle Shoes classic basketball casual streetwear white",
+      "image_url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e6da41fa-1be4-4ce5-b89c-22be4f1f02d4/air-force-1-07-mens-shoes-jBrhBr.png"
+    },
+    {
+      "id": "P012",
+      "name": "Nike Dunk Low Retro",
+      "category": "Lifestyle Shoes",
+      "price": 115.00,
+      "description": "Created for the hardwood but taken to the streets, the Nike Dunk Low Retro returns with crisp overlays.",
+      "sizes_available": [8, 9, 10, 11],
+      "colors": ["Black/White", "Grey/White", "Blue/White"],
+      "embedding_text": "Nike Dunk Low Retro Lifestyle Shoes panda dunk streetwear casual basketball",
+      "image_url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/016256f5-e1b4-4348-8671-12a8db431054/dunk-low-retro-mens-shoes-5FQWGR.png"
+    },
+    {
+      "id": "P013",
+      "name": "Nike InfinityRN 4",
+      "category": "Running Shoes",
+      "price": 160.00,
+      "description": "Maximum cushioning provides a comfortable ride for everyday runs. Experience the softest, smoothest ride.",
+      "sizes_available": [8, 9, 10, 11, 12],
+      "colors": ["White/Green", "Black/White", "Blue"],
+      "embedding_text": "Nike InfinityRN 4 Running Shoes max cushion daily trainer support comfort",
+      "image_url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a3e7dead-1ad2-4c40-996d-93ebc9df0fca/infinityrn-4-mens-road-running-shoes-4hGjX2.png"
+    },
+    {
+      "id": "P014",
+      "name": "Nike Invincible 3",
+      "category": "Running Shoes",
+      "price": 180.00,
+      "description": "With maximum cushioning to support every mile, the Invincible 3 gives you our highest level of comfort underfoot.",
+      "sizes_available": [9, 10, 11, 12],
+      "colors": ["Black", "White", "Blue"],
+      "embedding_text": "Nike Invincible 3 Running Shoes max cushion zoomx comfort recovery run",
+      "image_url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/72793099-0f66-411f-991f-9f9a721e90a6/invincible-3-mens-road-running-shoes-CLdFjq.png"
+    },
+    {
+      "id": "P015",
+      "name": "Nike Air Max 270",
+      "category": "Lifestyle Shoes",
+      "price": 160.00,
+      "description": "Nike's first lifestyle Air unit meets the softest, smoothest and most resilient foam yet.",
+      "sizes_available": [7, 8, 9, 10, 11, 12],
+      "colors": ["Black/White", "White/Black", "Red"],
+      "embedding_text": "Nike Air Max 270 Lifestyle Shoes air bubble comfort casual",
+      "image_url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/7c5678f4-c28d-4862-a8d9-56750f839f12/air-max-270-mens-shoes-KkLcGR.png"
+    }
+  ]
+}

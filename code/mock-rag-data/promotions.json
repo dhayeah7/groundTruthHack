@@ -1,0 +1,153 @@
+{
+  "promotions": [
+    {
+      "id": "PROMO001",
+      "name": "Holiday Season Sale",
+      "type": "Percentage Discount",
+      "discount_percentage": 20,
+      "description": "Get 20% off on selected running shoes and apparel. Perfect for your New Year fitness goals!",
+      "applicable_categories": ["Running Shoes", "Apparel"],
+      "applicable_products": ["P001", "P003", "P007"],
+      "excluded_products": ["P004"],
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-25",
+      "applicable_stores": ["S001", "S002", "S003", "S004", "S005"],
+      "terms_conditions": [
+        "Valid on in-store purchases only",
+        "Cannot be combined with other offers",
+        "Excludes Vaporfly series"
+      ],
+      "promo_code": "HOLIDAY20",
+      "embedding_text": "holiday sale 20 percent discount running shoes apparel December Christmas New Year fitness"
+    },
+    {
+      "id": "PROMO002",
+      "name": "Nike Members Early Access",
+      "type": "Early Release",
+      "discount_percentage": 0,
+      "description": "Nike Members get exclusive early access to the latest releases 48 hours before general public. Sign up now!",
+      "applicable_categories": ["All"],
+      "membership_required": true,
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-31",
+      "applicable_stores": ["S001", "S002", "S003", "S004", "S005"],
+      "benefits": [
+        "48-hour early access to new releases",
+        "Free shipping on orders over RM200",
+        "Birthday rewards",
+        "Exclusive member events"
+      ],
+      "embedding_text": "Nike members early access exclusive releases membership benefits VIP priority new products"
+    },
+    {
+      "id": "PROMO003",
+      "name": "Student Discount Program",
+      "type": "Percentage Discount",
+      "discount_percentage": 10,
+      "description": "Students get 10% off all year round. Valid student ID required at checkout.",
+      "applicable_categories": ["All"],
+      "excluded_products": [],
+      "ongoing": true,
+      "applicable_stores": ["S001", "S002", "S003", "S004", "S005"],
+      "requirements": [
+        "Valid student ID or UNiDAYS verification",
+        "Available in-store and online",
+        "Not applicable to sale items"
+      ],
+      "embedding_text": "student discount 10 percent university college ID year round education"
+    },
+    {
+      "id": "PROMO004",
+      "name": "Buy 2 Get 1 Free - Socks & Accessories",
+      "type": "Bundle Deal",
+      "discount_percentage": 0,
+      "description": "Purchase any 2 items from our socks and accessories range and get the 3rd item (of equal or lesser value) free!",
+      "applicable_categories": ["Accessories"],
+      "applicable_products": ["P008", "P010"],
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-15",
+      "applicable_stores": ["S001", "S002", "S003", "S004", "S005"],
+      "terms_conditions": [
+        "Third item must be of equal or lesser value",
+        "Mix and match allowed",
+        "While stocks last"
+      ],
+      "embedding_text": "buy 2 get 1 free bundle deal socks accessories value promotion"
+    },
+    {
+      "id": "PROMO005",
+      "name": "Nike Loyalty Rewards - Gold Tier",
+      "type": "Loyalty Program",
+      "discount_percentage": 15,
+      "description": "Gold tier members receive 15% off all purchases, priority customer service, and exclusive invites to Nike events.",
+      "applicable_categories": ["All"],
+      "loyalty_tier": "Gold",
+      "points_required": 5000,
+      "ongoing": true,
+      "applicable_stores": ["S001", "S002", "S003", "S004", "S005"],
+      "benefits": [
+        "15% discount on all products",
+        "Priority customer service",
+        "Free alterations and customization",
+        "Exclusive event invitations",
+        "Free delivery on all orders"
+      ],
+      "embedding_text": "loyalty program gold tier VIP rewards 15 percent discount exclusive benefits priority service"
+    },
+    {
+      "id": "PROMO006",
+      "name": "Nike Loyalty Rewards - Silver Tier",
+      "type": "Loyalty Program",
+      "discount_percentage": 10,
+      "description": "Silver tier members receive 10% off all purchases and free shipping on orders over RM150.",
+      "applicable_categories": ["All"],
+      "loyalty_tier": "Silver",
+      "points_required": 2000,
+      "ongoing": true,
+      "applicable_stores": ["S001", "S002", "S003", "S004", "S005"],
+      "benefits": [
+        "10% discount on all products",
+        "Free shipping over RM150",
+        "Birthday special offer",
+        "Member-only sales access"
+      ],
+      "embedding_text": "loyalty program silver tier rewards 10 percent discount free shipping benefits"
+    },
+    {
+      "id": "PROMO007",
+      "name": "Marathon Season Special",
+      "type": "Category Sale",
+      "discount_percentage": 25,
+      "description": "Gear up for marathon season! 25% off select running shoes including Pegasus and Revolution series.",
+      "applicable_categories": ["Running Shoes"],
+      "applicable_products": ["P001", "P007"],
+      "start_date": "2025-12-10",
+      "end_date": "2025-12-31",
+      "applicable_stores": ["S001", "S003", "S005"],
+      "terms_conditions": [
+        "Valid for marathon training season",
+        "Limited stock available",
+        "Excludes elite racing shoes"
+      ],
+      "promo_code": "MARATHON25",
+      "embedding_text": "marathon running special 25 percent discount Pegasus Revolution training season runners"
+    },
+    {
+      "id": "PROMO008",
+      "name": "Refer a Friend",
+      "type": "Referral Bonus",
+      "discount_percentage": 0,
+      "reward_amount": 50,
+      "currency": "RM",
+      "description": "Refer a friend to Nike and both of you get RM50 credit when they make their first purchase of RM200 or more.",
+      "ongoing": true,
+      "applicable_stores": ["S001", "S002", "S003", "S004", "S005"],
+      "requirements": [
+        "Friend must be a new Nike customer",
+        "Minimum purchase of RM200 required",
+        "Credit valid for 90 days"
+      ],
+      "embedding_text": "refer friend referral bonus RM50 credit new customer reward share invite"
+    }
+  ]
+}

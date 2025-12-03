@@ -1,0 +1,256 @@
+{
+  "stores": [
+    {
+      "id": "S001",
+      "name": "Nike Express Avenue",
+      "full_name": "Nike Store - Express Avenue Mall",
+      "type": "Flagship Store",
+      "address": {
+        "street": "Unit 142, Second Floor, Express Avenue",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "postal_code": "600002",
+        "country": "India"
+      },
+      "coordinates": {
+        "latitude": 13.0569,
+        "longitude": 80.2574
+      },
+      "contact": {
+        "phone": "+91 44 4214 3200",
+        "email": "nikeexpressavenue@nike.com"
+      },
+      "hours": {
+        "monday": "10:00 AM - 10:00 PM",
+        "tuesday": "10:00 AM - 10:00 PM",
+        "wednesday": "10:00 AM - 10:00 PM",
+        "thursday": "10:00 AM - 10:00 PM",
+        "friday": "10:00 AM - 10:00 PM",
+        "saturday": "10:00 AM - 10:00 PM",
+        "sunday": "10:00 AM - 10:00 PM"
+      },
+      "services": ["Product customization", "Expert fitting", "Nike App reservations", "Click & collect"],
+      "amenities": ["Wheelchair accessible", "Fitting rooms", "Nike Expert staff"],
+      "mall_name": "Express Avenue Mall",
+      "landmark": "Near Chennai Central Station",
+      "parking": "Available in mall parking",
+      "embedding_text": "Nike Express Avenue flagship store Chennai central location product customization expert fitting popular shopping destination"
+    },
+    {
+      "id": "S002",
+      "name": "Nike Phoenix MarketCity",
+      "full_name": "Nike Store - Phoenix MarketCity Chennai",
+      "type": "Retail Store",
+      "address": {
+        "street": "Unit 245, Level 2, Phoenix MarketCity",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "postal_code": "600029",
+        "country": "India"
+      },
+      "coordinates": {
+        "latitude": 13.0097,
+        "longitude": 80.2108
+      },
+      "contact": {
+        "phone": "+91 44 6678 9900",
+        "email": "nikephoenix@nike.com"
+      },
+      "hours": {
+        "monday": "10:00 AM - 10:00 PM",
+        "tuesday": "10:00 AM - 10:00 PM",
+        "wednesday": "10:00 AM - 10:00 PM",
+        "thursday": "10:00 AM - 10:00 PM",
+        "friday": "10:00 AM - 10:00 PM",
+        "saturday": "10:00 AM - 10:00 PM",
+        "sunday": "10:00 AM - 10:00 PM"
+      },
+      "services": ["Nike App reservations", "Click & collect", "Returns"],
+      "amenities": ["Wheelchair accessible", "Fitting rooms"],
+      "mall_name": "Phoenix MarketCity",
+      "landmark": "Velachery main road",
+      "parking": "Available in mall parking",
+      "embedding_text": "Nike Phoenix MarketCity Chennai Velachery retail store large shopping mall Nike App"
+    },
+    {
+      "id": "S003",
+      "name": "Nike VR Mall",
+      "full_name": "Nike Store - VR Chennai",
+      "type": "Retail Store",
+      "address": {
+        "street": "Unit 310, Third Floor, VR Chennai",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "postal_code": "600032",
+        "country": "India"
+      },
+      "coordinates": {
+        "latitude": 13.0175,
+        "longitude": 80.2379
+      },
+      "contact": {
+        "phone": "+91 44 2815 6789",
+        "email": "nikevr@nike.com"
+      },
+      "hours": {
+        "monday": "10:00 AM - 10:00 PM",
+        "tuesday": "10:00 AM - 10:00 PM",
+        "wednesday": "10:00 AM - 10:00 PM",
+        "thursday": "10:00 AM - 10:00 PM",
+        "friday": "10:00 AM - 10:00 PM",
+        "saturday": "10:00 AM - 10:00 PM",
+        "sunday": "10:00 AM - 10:00 PM"
+      },
+      "services": ["Nike App reservations", "Click & collect", "Returns", "Gift cards"],
+      "amenities": ["Wheelchair accessible", "Family-friendly", "Fitting rooms"],
+      "mall_name": "VR Chennai",
+      "landmark": "Anna Nagar",
+      "parking": "Ample parking available",
+      "embedding_text": "Nike VR Chennai Anna Nagar retail store family shopping large selection running training lifestyle"
+    },
+    {
+      "id": "S004",
+      "name": "Nike Nexus Mall",
+      "full_name": "Nike Store - Nexus Vijaya Mall",
+      "type": "Retail Store",
+      "address": {
+        "street": "Unit 180, First Floor, Nexus Vijaya Mall",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "postal_code": "600017",
+        "country": "India"
+      },
+      "coordinates": {
+        "latitude": 13.0381,
+        "longitude": 80.2417
+      },
+      "contact": {
+        "phone": "+91 44 4858 2200",
+        "email": "nikenexus@nike.com"
+      },
+      "hours": {
+        "monday": "10:00 AM - 10:00 PM",
+        "tuesday": "10:00 AM - 10:00 PM",
+        "wednesday": "10:00 AM - 10:00 PM",
+        "thursday": "10:00 AM - 10:00 PM",
+        "friday": "10:00 AM - 10:00 PM",
+        "saturday": "10:00 AM - 10:00 PM",
+        "sunday": "10:00 AM - 10:00 PM"
+      },
+      "services": ["Nike App reservations", "Click & collect", "Returns", "Gift cards", "Student discount"],
+      "amenities": ["Wheelchair accessible", "Fitting rooms", "Kids section"],
+      "mall_name": "Nexus Vijaya Mall",
+      "landmark": "Vadapalani",
+      "parking": "Large parking facility",
+      "embedding_text": "Nike Nexus Vijaya Mall Chennai Vadapalani shopping centre extensive collection kids section student discount"
+    },
+    {
+      "id": "S005",
+      "name": "Nike Ampa Skywalk",
+      "full_name": "Nike Store - Ampa Skywalk Mall",
+      "type": "Retail Store",
+      "address": {
+        "street": "Unit 205, Second Floor, Ampa Skywalk",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "postal_code": "600006",
+        "country": "India"
+      },
+      "coordinates": {
+        "latitude": 13.0672,
+        "longitude": 80.2384
+      },
+      "contact": {
+        "phone": "+91 44 2834 5500",
+        "email": "nikeampa@nike.com"
+      },
+      "hours": {
+        "monday": "10:00 AM - 10:00 PM",
+        "tuesday": "10:00 AM - 10:00 PM",
+        "wednesday": "10:00 AM - 10:00 PM",
+        "thursday": "10:00 AM - 10:00 PM",
+        "friday": "10:00 AM - 10:00 PM",
+        "saturday": "10:00 AM - 10:00 PM",
+        "sunday": "10:00 AM - 10:00 PM"
+      },
+      "services": ["Nike App reservations", "Click & collect", "Returns"],
+      "amenities": ["Wheelchair accessible", "Fitting rooms", "Near food court"],
+      "mall_name": "Ampa Skywalk",
+      "landmark": "Aminjikarai",
+      "parking": "Mall parking available",
+      "embedding_text": "Nike Ampa Skywalk Chennai Aminjikarai shopping mall convenient location family destination"
+    },
+    {
+      "id": "S006",
+      "name": "Nike Marina Mall",
+      "full_name": "Nike Store - Marina Mall OMR",
+      "type": "Retail Store",
+      "address": {
+        "street": "Unit 12, Ground Floor, Marina Mall",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "postal_code": "600103",
+        "country": "India"
+      },
+      "coordinates": {
+        "latitude": 12.8256,
+        "longitude": 80.2265
+      },
+      "contact": {
+        "phone": "+91 44 2747 1100",
+        "email": "nikemarina@nike.com"
+      },
+      "hours": {
+        "monday": "10:00 AM - 10:00 PM",
+        "tuesday": "10:00 AM - 10:00 PM",
+        "wednesday": "10:00 AM - 10:00 PM",
+        "thursday": "10:00 AM - 10:00 PM",
+        "friday": "10:00 AM - 10:00 PM",
+        "saturday": "10:00 AM - 10:00 PM",
+        "sunday": "10:00 AM - 10:00 PM"
+      },
+      "services": ["Nike App reservations", "Click & collect", "Returns"],
+      "amenities": ["Wheelchair accessible", "Fitting rooms"],
+      "mall_name": "Marina Mall",
+      "landmark": "Egattur OMR",
+      "parking": "Ample parking",
+      "embedding_text": "Nike Marina Mall OMR Chennai Egattur IT corridor shopping"
+    },
+    {
+      "id": "S007",
+      "name": "Nike Palladium",
+      "full_name": "Nike Store - Palladium Chennai",
+      "type": "Premium Store",
+      "address": {
+        "street": "Unit 10, Upper Ground Floor, Palladium",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "postal_code": "600042",
+        "country": "India"
+      },
+      "coordinates": {
+        "latitude": 13.0097,
+        "longitude": 80.2108
+      },
+      "contact": {
+        "phone": "+91 44 6678 9999",
+        "email": "nikepalladium@nike.com"
+      },
+      "hours": {
+        "monday": "11:00 AM - 10:00 PM",
+        "tuesday": "11:00 AM - 10:00 PM",
+        "wednesday": "11:00 AM - 10:00 PM",
+        "thursday": "11:00 AM - 10:00 PM",
+        "friday": "11:00 AM - 10:00 PM",
+        "saturday": "11:00 AM - 10:00 PM",
+        "sunday": "11:00 AM - 10:00 PM"
+      },
+      "services": ["Personal styling", "Premium collection", "Nike App reservations", "Click & collect"],
+      "amenities": ["Luxury fitting rooms", "Lounge area", "Stylist consultation"],
+      "mall_name": "Palladium",
+      "landmark": "Velachery",
+      "parking": "Valet parking available",
+      "embedding_text": "Nike Palladium Chennai luxury store premium collection personal styling exclusive products"
+    }
+  ]
+}

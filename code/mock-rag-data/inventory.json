@@ -1,0 +1,268 @@
+{
+  "inventory": [
+    {
+      "store_id": "S001",
+      "store_name": "Nike KLCC",
+      "product_id": "P001",
+      "product_name": "Nike Air Zoom Pegasus 40",
+      "stock_by_size": {
+        "7": 3,
+        "7.5": 2,
+        "8": 5,
+        "8.5": 4,
+        "9": 6,
+        "9.5": 8,
+        "10": 7,
+        "10.5": 5,
+        "11": 4,
+        "11.5": 2,
+        "12": 3,
+        "13": 1
+      },
+      "stock_by_color": {
+        "Black/White": 15,
+        "Blue/Yellow": 12,
+        "Pink/White": 8,
+        "Grey/Orange": 10
+      },
+      "total_units": 45,
+      "last_updated": "2025-12-03T08:00:00Z",
+      "low_stock_threshold": 3,
+      "restock_date": "2025-12-10"
+    },
+    {
+      "store_id": "S001",
+      "store_name": "Nike KLCC",
+      "product_id": "P002",
+      "product_name": "Nike Air Max 90",
+      "stock_by_size": {
+        "6": 2,
+        "7": 4,
+        "8": 6,
+        "9": 8,
+        "10": 10,
+        "11": 6,
+        "12": 3
+      },
+      "stock_by_color": {
+        "White/Black": 18,
+        "Triple White": 12,
+        "Grey/Red": 6,
+        "Navy/Orange": 4
+      },
+      "total_units": 40,
+      "last_updated": "2025-12-03T08:00:00Z",
+      "low_stock_threshold": 3,
+      "restock_date": "2025-12-08"
+    },
+    {
+      "store_id": "S001",
+      "store_name": "Nike KLCC",
+      "product_id": "P004",
+      "product_name": "Nike ZoomX Vaporfly Next% 3",
+      "stock_by_size": {
+        "8": 2,
+        "9": 3,
+        "10": 4,
+        "11": 2,
+        "12": 1
+      },
+      "stock_by_color": {
+        "Electric Green/Black": 6,
+        "Pink/White": 4,
+        "White/Blue": 2
+      },
+      "total_units": 12,
+      "last_updated": "2025-12-03T08:00:00Z",
+      "low_stock_threshold": 2,
+      "restock_date": "2025-12-15"
+    },
+    {
+      "store_id": "S002",
+      "store_name": "Nike Pavilion KL",
+      "product_id": "P001",
+      "product_name": "Nike Air Zoom Pegasus 40",
+      "stock_by_size": {
+        "7": 2,
+        "8": 4,
+        "9": 6,
+        "10": 8,
+        "11": 5,
+        "12": 3
+      },
+      "stock_by_color": {
+        "Black/White": 12,
+        "Blue/Yellow": 10,
+        "Pink/White": 6
+      },
+      "total_units": 28,
+      "last_updated": "2025-12-03T07:30:00Z",
+      "low_stock_threshold": 3,
+      "restock_date": "2025-12-09"
+    },
+    {
+      "store_id": "S002",
+      "store_name": "Nike Pavilion KL",
+      "product_id": "P006",
+      "product_name": "Nike Sportswear Club Fleece Hoodie",
+      "stock_by_size": {
+        "XS": 5,
+        "S": 10,
+        "M": 15,
+        "L": 12,
+        "XL": 8,
+        "XXL": 4
+      },
+      "stock_by_color": {
+        "Black": 20,
+        "Grey Heather": 18,
+        "Navy": 10,
+        "Dark Green": 6
+      },
+      "total_units": 54,
+      "last_updated": "2025-12-03T07:30:00Z",
+      "low_stock_threshold": 5,
+      "restock_date": "2025-12-12"
+    },
+    {
+      "store_id": "S003",
+      "store_name": "Nike Mid Valley",
+      "product_id": "P007",
+      "product_name": "Nike Revolution 7",
+      "stock_by_size": {
+        "6": 8,
+        "7": 10,
+        "8": 12,
+        "9": 15,
+        "10": 14,
+        "11": 10,
+        "12": 6,
+        "13": 3
+      },
+      "stock_by_color": {
+        "Black/White": 25,
+        "White/Grey": 20,
+        "Navy/Orange": 15,
+        "Pink/White": 18
+      },
+      "total_units": 78,
+      "last_updated": "2025-12-03T09:00:00Z",
+      "low_stock_threshold": 5,
+      "restock_date": "2025-12-07"
+    },
+    {
+      "store_id": "S003",
+      "store_name": "Nike Mid Valley",
+      "product_id": "P009",
+      "product_name": "Nike Metcon 9",
+      "stock_by_size": {
+        "7": 3,
+        "8": 5,
+        "9": 6,
+        "10": 7,
+        "11": 4,
+        "12": 2
+      },
+      "stock_by_color": {
+        "Black/White": 12,
+        "Grey/Red": 10,
+        "Navy/Yellow": 5
+      },
+      "total_units": 27,
+      "last_updated": "2025-12-03T09:00:00Z",
+      "low_stock_threshold": 3,
+      "restock_date": "2025-12-11"
+    },
+    {
+      "store_id": "S004",
+      "store_name": "Nike 1 Utama",
+      "product_id": "P002",
+      "product_name": "Nike Air Max 90",
+      "stock_by_size": {
+        "6": 4,
+        "7": 6,
+        "8": 10,
+        "9": 12,
+        "10": 14,
+        "11": 8,
+        "12": 5
+      },
+      "stock_by_color": {
+        "White/Black": 22,
+        "Triple White": 18,
+        "Grey/Red": 12,
+        "Navy/Orange": 7
+      },
+      "total_units": 59,
+      "last_updated": "2025-12-03T08:15:00Z",
+      "low_stock_threshold": 4,
+      "restock_date": "2025-12-06"
+    },
+    {
+      "store_id": "S004",
+      "store_name": "Nike 1 Utama",
+      "product_id": "P008",
+      "product_name": "Nike Brasilia 9.5 Training Duffel Bag",
+      "stock_by_size": {
+        "Medium": 15,
+        "Large": 12
+      },
+      "stock_by_color": {
+        "Black": 10,
+        "Navy": 8,
+        "Pink": 5,
+        "Grey": 4
+      },
+      "total_units": 27,
+      "last_updated": "2025-12-03T08:15:00Z",
+      "low_stock_threshold": 5,
+      "restock_date": "2025-12-13"
+    },
+    {
+      "store_id": "S005",
+      "store_name": "Nike Sunway Pyramid",
+      "product_id": "P001",
+      "product_name": "Nike Air Zoom Pegasus 40",
+      "stock_by_size": {
+        "7": 4,
+        "8": 5,
+        "9": 7,
+        "10": 9,
+        "11": 6,
+        "12": 4
+      },
+      "stock_by_color": {
+        "Black/White": 14,
+        "Blue/Yellow": 11,
+        "Pink/White": 10
+      },
+      "total_units": 35,
+      "last_updated": "2025-12-03T08:45:00Z",
+      "low_stock_threshold": 3,
+      "restock_date": "2025-12-10"
+    },
+    {
+      "store_id": "S005",
+      "store_name": "Nike Sunway Pyramid",
+      "product_id": "P003",
+      "product_name": "Nike Dri-FIT Swift Running Top",
+      "stock_by_size": {
+        "XS": 4,
+        "S": 8,
+        "M": 12,
+        "L": 10,
+        "XL": 6
+      },
+      "stock_by_color": {
+        "Black": 15,
+        "Pink": 12,
+        "Purple": 8,
+        "Navy": 5
+      },
+      "total_units": 40,
+      "last_updated": "2025-12-03T08:45:00Z",
+      "low_stock_threshold": 4,
+      "restock_date": "2025-12-14"
+    }
+  ]
+}

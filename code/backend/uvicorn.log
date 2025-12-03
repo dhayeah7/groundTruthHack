@@ -1,0 +1,27 @@
+INFO:     Will watch for changes in these directories: ['/Users/dayamahesh/gtHack/backend']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [31026] using WatchFiles
+/opt/homebrew/lib/python3.11/site-packages/transformers/utils/generic.py:441: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
+  _torch_pytree._register_pytree_node(
+INFO:     Started server process [31065]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+/opt/homebrew/lib/python3.11/site-packages/huggingface_hub/file_download.py:797: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+/opt/homebrew/lib/python3.11/site-packages/transformers/utils/generic.py:309: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
+  _torch_pytree._register_pytree_node(
+Initializing RAG system...
+RAG system initialized with 15 products, 7 stores, 8 promotions
+Updated preferences for user U001
+INFO:     127.0.0.1:62079 - "POST /chat HTTP/1.1" 200 OK
+Updated preferences for user U001
+INFO:     127.0.0.1:62125 - "POST /chat HTTP/1.1" 200 OK
+Updated preferences for user U001
+INFO:     127.0.0.1:62137 - "POST /chat HTTP/1.1" 200 OK
+Updated preferences for user U001
+INFO:     127.0.0.1:62142 - "POST /chat HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [31065]
+INFO:     Stopping reloader process [31026]
